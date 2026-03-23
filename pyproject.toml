@@ -1,7 +1,7 @@
 [project]
-name = "upv-chair-lab4RR"
+name = "upv-chair-lab5"
 version = "0.1.0"
-description = "CIFOIN Laboratory 1 - Waveguides"
+description = "PIC-UPV Final Design"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
